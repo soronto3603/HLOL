@@ -1,0 +1,33 @@
+<?
+	$tier_point_table['Bronz5']=100;
+	$tier_point_table['Bronz4']=200;
+	$tier_point_table['Bronz3']=300;
+	$tier_point_table['Bronz2']=400;
+	$tier_point_table['Bronz1']=500;
+	$tier_point_table['Silver5']=605;
+	$tier_point_table['Silver4']=710;
+	$tier_point_table['Silver3']=815;
+	$tier_point_table['Silver2']=920;
+	$tier_point_table['Silver1']=1025;
+	$tier_point_table['Gold5']=1146;
+	$tier_point_table['Gold4']=1267;
+	$tier_point_table['Gold3']=1388;
+	$tier_point_table['Gold2']=1509;
+	$tier_point_table['Gold1']=1630;
+	$tier_point_table['Platinum5']=1763;
+	$tier_point_table['Platinum4']=1896;
+	$tier_point_table['Platinum3']=2029;
+	$tier_point_table['Platinum2']=2162;
+	$tier_point_table['Platinum1']=2295;
+	$tier_point_table['Diamond5']=2454;
+	$tier_point_table['Diamond4']=2613;
+	$tier_point_table['Diamond3']=2931;
+	$tier_point_table['Diamond2']=3090;
+	$tier_point_table['Diamond1']=3249;
+	$tier_point_table['Master5']=3440;
+	$tier_point_table['Master4']=3631;
+	$tier_point_table['Master3']=3822;
+	$tier_point_table['Master2']=4013;
+	$tier_point_table['Master1']=4204;
+	$tier_point_table['Challenger']=4500;
+?>
